@@ -1,0 +1,17 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Pro:wght@400;600&display=swap');
+
+
+body {
+  font-family: 'SofiaPro', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.cart-modal, .cart, .product-details {
+  font-family: 'SofiaPro', sans-serif;
+  font-size: 16px;
+}
